@@ -1,4 +1,4 @@
 # react-native-newsletters
-Månedlige nyhetsbrev med oppdateringer om hva som har skjedd i react-native miljøet den siste tiden.
+Månedlige (og foreløpig interne) nyhetsbrev  med oppdateringer om hva som har skjedd i react-native miljøet den siste tiden.
 
-[November 2017]()
+[November 2017](https://github.com/agensdev/react-native-newsletters/blob/master/2017-11.md)
